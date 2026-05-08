@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Maker Project Download Renamer",
+  "name": "Maker Names",
   "version": "1.0.0",
   "description": "Renames downloads from 3D printing model sites based on page content.",
 
